@@ -54,12 +54,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 Now the most essential thing ihave added two folder named as mongoDB.js and index.js 
-Index.js is simply a javascript file that will read the api and fetch all thge details and can be used to update delete and add data easily
-I have done it thrrough postman you can also install and get all the details of your api
+
+
+Index.js is simply a javascript file that will read the api and fetch all thge details and can be used to update delete and add data easily.
+
+I have done it thrrough postman you can also install and get all the details of your api.
+
 simply provide the port number whatever you want like 8000 or 8080 etc.
+
 Now the Next Essential thing is MongoDB.js
+
 here again the use of express and mongo db will come
+
 for that you have to install 
+
 npm install nodemon
 npm install express
 and then for mongodb to run in react go throgh following details
