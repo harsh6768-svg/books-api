@@ -62,24 +62,38 @@ I have done it thrrough postman you can also install and get all the details of 
 
 simply provide the port number whatever you want like 8000 or 8080 etc.
 
-Now the Next Essential thing is MongoDB.js
+Now the Next Essential thing is MongoDB.js.
 
-here again the use of express and mongo db will come
+here again the use of express and mongo db will come.
 
-for that you have to install 
+for that you have to install ->.
 
-npm install nodemon
-npm install express
-and then for mongodb to run in react go throgh following details
+npm install nodemon.
+
+npm install express.
+and then for mongodb to run in react go throgh following details.
+
 make cluster in mongo db
+
 add data
+
 npm install mongoclient
+
 npm install mongoose
+
 and just connect it throgh the database and simply run the following command
+
 nodemon mongodb.js
+
 and then if the atlas compass is installed in your computer
+
+
 use local host https://localhost:27017
+
 or if you are through cloud 
+
 connect it with the desired link in cloud
+
 get the database hope you will like it
+
 Thanks !!
