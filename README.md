@@ -44,15 +44,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
+=
 ### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
@@ -61,10 +53,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Now the most essential thing ihave added two folder named as mongoDB.js and index.js 
+Index.js is simply a javascript file that will read the api and fetch all thge details and can be used to update delete and add data easily
+I have done it thrrough postman you can also install and get all the details of your api
+simply provide the port number whatever you want like 8000 or 8080 etc.
+Now the Next Essential thing is MongoDB.js
+here again the use of express and mongo db will come
+for that you have to install 
+npm install nodemon
+npm install express
+and then for mongodb to run in react go throgh following details
+make cluster in mongo db
+add data
+npm install mongoclient
+npm install mongoose
+and just connect it throgh the database and simply run the following command
+nodemon mongodb.js
+and then if the atlas compass is installed in your computer
+use local host https://localhost:27017
+or if you are through cloud 
+connect it with the desired link in cloud
+get the database hope you will like it
+Thanks !!
